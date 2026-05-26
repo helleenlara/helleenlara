@@ -1,67 +1,69 @@
-# Oii, eu sou a Lara 👋
+<div align="center">
 
-👩🏽‍💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
-📚 Estudante de Técnico em Desenvolvimento de Sistemas no SENAI  
-🌱 Aprendendo Desenvolvimento Full Stack  
-🎨 Apaixonada por tecnologia, criatividade e design  
-✨ Construindo minha jornada um commit de cada vez
+# Lara Hellen 👩🏽‍💻
 
----
+### estudante de ads + desenvolvimento de sistemas  
+### aprendendo, criando e evoluindo um código de cada vez ✨
 
-## 🚀 Sobre mim
-
-- 📖 Cursando ADS na faculdade
-- 💻 Estudando Desenvolvimento de Sistemas no SENAI
-- 🌱 Melhorando minha lógica de programação e desenvolvimento web
-- 🎯 Futura desenvolvedora Full Stack
-- ✨ Gosto de criar projetos criativos e funcionais
+</div>
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
+## 🌷 sobre mim
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,vscode" />
-</p>
+oii! eu sou a Lara 💗
+
+atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** e também estudo **Desenvolvimento de Sistemas no SENAI**.  
+estou construindo minha jornada na tecnologia enquanto aprendo desenvolvimento full stack, lógica de programação e criação de projetos.
+
+gosto de unir criatividade + tecnologia + design para transformar ideias em algo funcional e bonito ✨
 
 ---
 
-## 📚 Atualmente aprendendo
+## 💻 estudando no momento
 
 - HTML & CSS
 - JavaScript
 - Python
-- Lógica de Programação
 - Git & GitHub
-- Desenvolvimento Full Stack
+- lógica de programação
+- desenvolvimento full stack
 
 ---
 
-## 🎯 Objetivos
+## 🌱 objetivos
 
-- Me tornar desenvolvedora Full Stack
-- Criar projetos úteis e criativos
-- Evoluir minhas habilidades em programação
-- Construir meu portfólio
-
----
-
-## 📊 Estatísticas GitHub
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=helleenlara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helleenlara&layout=compact&theme=tokyonight"/>
+- crescer como desenvolvedora
+- criar projetos criativos e úteis
+- construir meu portfólio
+- evoluir um pouco todos os dias
 
 ---
 
-## 🌐 Contato
+## 🛠 tecnologias & ferramentas
 
-<p>
-  <a href="https://github.com/helleenlara">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,vscode"/>
+
+</div>
 
 ---
 
-✨ One commit at a time
+## 📊 github stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=helleenlara&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helleenlara&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ *one commit at a time*
+
+</div>
