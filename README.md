@@ -1,7 +1,7 @@
 # 👩🏽‍💻♡ Lara Hellen
 
-🎓 estudante de Análise e Desenvolvimento de Sistemas  
-💻 estudante de Desenvolvimento de Sistemas no SENAI  
+🎓 estudante de Análise e Desenvolvimento de Sistemas na Uniruy
+💻 estudante de Técnico em Desenvolvimento de Sistemas no SENAI  
 🌱 aprendendo desenvolvimento full stack  
 🎨 apaixonada por tecnologia, design e criatividade  
 
