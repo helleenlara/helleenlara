@@ -1,11 +1,7 @@
-<div align="center">
-
 # Lara Hellen 👩🏽‍💻
 
 ### estudante de ads + desenvolvimento de sistemas  
 ### aprendendo, criando e evoluindo um código de cada vez ✨
-
-</div>
 
 ---
 
