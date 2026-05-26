@@ -1,9 +1,9 @@
-# ♡ Lara Hellen
+# 👩🏽‍💻♡ Lara Hellen
 
-👩🏽‍💻 estudante de ADS & Desenvolvimento de Sistemas  
-🌷 aprendendo desenvolvimento full stack  
-🎀 tecnologia, criatividade e design  
-✨ construindo meu futuro um commit de cada vez  
+🎓 estudante de Análise e Desenvolvimento de Sistemas  
+💻 estudante de Desenvolvimento de Sistemas no SENAI  
+🌱 aprendendo desenvolvimento full stack  
+🎨 apaixonada por tecnologia, design e criatividade  
 
 ---
 
