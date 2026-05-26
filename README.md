@@ -48,9 +48,9 @@
 
 ## 📊 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=helleenlara&show_icons=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=helleenlara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helleenlara&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helleenlara&layout=compact&theme=tokyonight"/>
 
 ---
 
